@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Video Call",
+  "description": "A real-time video and audio calling application powered by the Gemini Live API. Engage in a natural, spoken conversation with Gemini, complete with live video and transcriptions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
